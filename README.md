@@ -6,5 +6,3 @@ Skills: Statistics / Financial intelligence analytics / Probability theory / Pyt
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlekseevMikhail)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/id149405416)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseevMikhail)](https://github.com/anuraghazra/github-readme-stats)
