@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mikhail
-I am a 3rd year student at ITMO University, majoring in software engineering, neurotechnology and programming. I am interested in data analysis and database structures.
+I am a 4th year student at ITMO University, majoring in software engineering, neurotechnology and programming. I am interested in data analysis and database structures.
 
 Skills: Statistics / Financial intelligence analytics / Probability theory / Python (SciPy, NumPy, Pandas, Matplotlib, Scikit Learn) / Google Colab / PostgreSQL / Java / C++
 
